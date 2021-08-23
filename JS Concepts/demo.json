@@ -1,0 +1,56 @@
+[{
+    "firstName" : "John",
+    "lastName" : "Doe",
+    "Address" : {
+        "street" : "123 Street",
+        "city" :  "Houstan",
+        "state" : "Texas"
+    },
+    "email" : "John_Doe@gmail.com",
+    "phone" : "555-555-5555"
+    },
+    {
+        "firstName" : "Darshan",
+        "lastName" : "Patel",
+        "Address" : {
+            "street" : "Gurukul Road",
+            "city" :  "Ahmedabad",
+            "state" : "Gujarat"
+        },
+        "email" : "DPpatel@gmail.com",
+        "phone" : "98989889898"
+        },
+        {
+            "firstName" : "Jay",
+            "lastName" : "Patel",
+            "Address" : {
+                "street" : "Bodakdev",
+                "city" :  "Ahmedabad",
+                "state" : "Gujarat"
+            },
+            "email" : "JPmorgan@gmail.com",
+            "phone" : "555-555-7777"
+            },
+            {
+                "firstName" : "Hitesh",
+                "lastName" : "Chhatvani",
+                "Address" : {
+                    "street" : "Gandhigram",
+                    "city" :  "Junagadh",
+                    "state" : "Gujarat"
+                },
+                "email" : "hchhatvani@gmail.com",
+                "phone" : "555-888-88888"
+                },
+                {
+                    "firstName" : "Pruthi",
+                    "lastName" : "Chudasama",
+                    "Address" : {
+                        "street" : "Sorathiya wadi",
+                        "city" :  "Rajkot",
+                        "state" : "GUjarat"
+                    },
+                    "email" : "pdccpd@gmail.com",
+                    "phone" : "989-876-5432"
+                    }
+]

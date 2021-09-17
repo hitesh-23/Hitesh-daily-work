@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.todoContainer{
+  margin-top: 17.5rem;
+
+ 
+}
+
+
+
+.task-input{
+  width : 25rem;
+  height: 2rem;
+  margin-left: 45rem;
+  margin-bottom : 1.5rem;
+  font-size: large;
+
+}
+
+.task-btn{
+  width:5rem;
+  height: 2.5rem;
+  align-items: center;
+  border: none;
+  border-radius: 0.5rem;
+  background-color: blanchedalmond;
+  cursor: pointer;
+  font-size: large;
+}
+
+.form {
+  border-bottom: 1px solid grey;
+  width: 100%;
+}
+
+.task-entries{
+  background-color: honeydew;
+  width: 60vw;
+  height: 60vh;
+  margin-left: 20vw;
+}
+
